@@ -1,37 +1,6 @@
-# Module 2 Group Assignment
 
-CSCI 5117, Spring 2024, [assignment description](https://canvas.umn.edu/courses/413159/pages/project-2)
-
-## App Info:
-
-* Team Name: The Forge
-* App Name: SafeRoute
 * App Link: https://calm-glacier-0c8e2970f.5.azurestaticapps.net
 
-### Students
-
-* Ariel Larin, larin006@umn.edu
-* Stephen Ma, ma000094@umn.edu
-* Robert Wang, wan00379@umn.edu
-* Benjamin Lindeen, lind1669@umn.edu
-* Justin Lee, lee03360@umn.edu
-
-
-## Key Features
-
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
-* The push notification feature was challenging since it involved setting up a service worker and maintaining a detailed flow of data between the front end, back end, and the service worker.
-* Graphing the information as the main part of the project was challenging because we had to learn a lot about the google maps API, as well as using other analysis methods to parse the data.
-
-Which (if any) device integration(s) does your app support?
-
-* Location services integrated through Google Maps API is supported on both computers and mobile devices.
-
-Which (if any) progressive web app feature(s) does your app support?
-
-* The app supports push notifications.
 
 
 
